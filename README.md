@@ -12,7 +12,7 @@ mail: mithatyavuzarslan@gmail.com
 *** Since the kNN function of class package in R is only using euclidean distance by default, knnVCN function in knnGarden package was used to seperately build models with different distance measures.
 
 **** At the bottom section of the code, accuracy scores of the models with 4 measures were compared but a summarized comparison of the best classifiers between the original research conducted by Ferhman et al. (2017) and this attempt can be checked from this image: 
-<img width=“964” alt=“comparison” src=“https://github.com/mithatyavuzarslan/Drug_Consumption_kNN/blob/master/comparison.png 37”>
+<img width=“964” alt=“comparison” src=“https://github.com/mithatyavuzarslan/Drug_Consumption_kNN/blob/master/comparison.png”>
 
  
  
