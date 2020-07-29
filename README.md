@@ -16,7 +16,7 @@ mail: mithatyavuzarslan@gmail.com
 **** At the bottom section of the code, accuracy scores of the models with 4 measures were compared but a summarized comparison of the best classifiers between the original research conducted by Ferhman et al. (2017) and this attempt can be checked from this image: 
 
 
-<img width=“964” alt=“comparison” src=“https://github.com/mithatyavuzarslan/Drug_Consumption_kNN/blob/master/image/comparison.png”>
+https://github.com/mithatyavuzarslan/Drug_Consumption_kNN/blob/master/image/comparison.png
 
  
  
